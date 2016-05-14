@@ -6,4 +6,6 @@ by _Honghuang Lin_
 
 ### LHS sampling
 [[https://github.com/linhghg/md_explain/blob/master/ldo_corr/corr1.png]]
+Inline-style:
+![alt text](https://github.com/linhghg/md_explain/blob/master/ldo_corr/corr1.png "Logo Title Text 1")
 
